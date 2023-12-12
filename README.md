@@ -1,5 +1,5 @@
 # electronic_code_book_cipher
-program enkripsi sederhana 
+program enkripsi sederhana dibuat menggunakan bahasa php dan styling menggunakan bootstrap 5.3
 
 # tampilan program
 
